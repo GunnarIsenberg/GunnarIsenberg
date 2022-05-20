@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @GunnarIsenberg
-- 👀 I’m interested in software development, not just from a professional point of view but how it has helped   
-  me learn to think critically about problems that I have found in my own life! 
+- 👀 I like code even if it sometimes makes me feel dumb
 
-  I’m currently learning GIT, C#/.NET, and working through some online data structures/algorithm classes - I have
-a decent understanding of python for a total beginner & can read HTML and CSS - though I cant align a div....
+- I like the markup languages & know some javascript
+- I Really like the C# langauge & look forward to learning more about it!
+- I am comfortable with python and probably do most of my work in python
+- I am learning SQL because I tried to connect a project to a Microsoft Access database
+    once and learned thats not something I want to do anymore!
 
   If you have any questions feel free to email me at gunnarisenberg@outlook.com! 
   Cant wait to forget about this readme and have it cost me a job in a year! 
